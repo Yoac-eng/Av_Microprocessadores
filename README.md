@@ -11,9 +11,9 @@ Esse código tem o objetivo de implementar os conceitos de FreeRTOS, para gerenc
 
 3. Equipe:
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Marcos Costa Oliveira</li>
+        <li>Yago Goltara</li>
+        <li>Cayo Ricardo</li>
         <li></li>
         <li>Thiago González</li>
     </ul>
