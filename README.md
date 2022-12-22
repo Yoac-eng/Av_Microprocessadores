@@ -14,6 +14,6 @@ Esse código tem o objetivo de implementar os conceitos de FreeRTOS, para gerenc
         <li>Marcos Costa Oliveira</li>
         <li>Yago Goltara</li>
         <li>Cayo Ricardo</li>
-        <li>Clitenys Eduardo</li>
+        <li>Clistenys Eduardo</li>
         <li>Thiago González</li>
     </ul>
