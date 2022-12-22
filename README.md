@@ -1,5 +1,5 @@
 # Avaliação de Microprocessadores e Microcontroladores
-Esse código tem o objetivo de implementar os conceitos de FreeRTOS, para gerenciamento de tarefas, na placa ATOM Lite .
+Esse código tem o objetivo de implementar os conceitos de FreeRTOS, para gerenciamento de tarefas, na placa ATOM Lite.
 
 1. Configuração de Setup:
     
